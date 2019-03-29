@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textSizeRegular">24sp</dimen>
+    <dimen name="dimenSmall">8dp</dimen>
+    <dimen name="imageSize">50dp</dimen>
+
+</resources>
